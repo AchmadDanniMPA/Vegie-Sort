@@ -1,0 +1,14 @@
+# Unity-generated folders
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+.DS_Store
